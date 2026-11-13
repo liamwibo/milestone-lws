@@ -18,4 +18,4 @@ app.add_middleware(
 
 @app.get("/user")
 def say_hello():
-    return {"name": "Hello World"}widgets
+    return {"name": "Hello World"}
